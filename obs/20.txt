@@ -1,5 +1,5 @@
 
-===== ۲۰.تبعید و بازگشت =====
+====== ۲۰.تبعید و بازگشت ======
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-01.jpg}}
