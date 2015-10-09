@@ -9,17 +9,12 @@
 
   * [[fa:obs|Open Bible Stories (fa)]]
 
-
 **Downloads**
 
 All content for this namespace is available in the [[https://github.com/Door43/d43-fa|d43-fa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fa/archive/master.zip|d43-fa.zip]]
 
 **Recent Changes**
 {{changes>ns = fa}}
-
-**Latest Status**
-{{page>en:uwadmin:fa:obs:status}}
-
 
 **Language Information**
 
