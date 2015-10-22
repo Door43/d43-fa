@@ -7,6 +7,3 @@
 
 ~~NOCACHE~~
 
-**Latest Status**
-{{page>en:uwadmin:fa:obs:status}}
-
