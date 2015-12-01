@@ -1,31 +1,22 @@
-//Translation for the unfoldingWord mobile app interface // 
+//Translation for the unfoldingWord mobile app interface //
 
-
-Select a language: Select a Language
-
-
-Chapters: Chapters
-
-
-Languages: Languages
-
-
-Next chapter: Next Chapter
-
+Remove this string: Remove this language from offline storage. You will need an internet connection to view it in the future.
 
 OK: OK
 
-
-Cancel: Cancel
-
-
 Save locally: Save Locally
-
-
-Save this string: Save this language locally for offline use.
-
 
 Remove locally: Remove Locally
 
+Chapters: Chapters
 
-Remove this string: Remove this language from offline storage. You will need an internet connection to view it in the future.
+Languages: Languages
+
+Save this string: Save this language locally for offline use.
+
+Select a language: Select a Language
+
+Cancel: Cancel
+
+Next chapter: Next Chapter
+
