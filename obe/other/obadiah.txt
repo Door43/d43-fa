@@ -1,0 +1,22 @@
+====== Obadiah ======
+
+===== Facts: =====
+
+Obadiah was one of Israel's prophets during the time of King Zedekiah.
+
+  * Other prophets at that time were Ezekiel and Daniel.
+  * Obadiah prophesied against the people of Edom, who were descendants of Esau.
+
+(Translation suggestions: [[:fa:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:fa:obe:other:edom]], [[:fa:obe:other:esau]], [[:fa:obe:other:ezekiel]], [[:fa:obe:other:daniel]], [[:fa:obe:other:zedekiah]])
+
+https://door43.org/lib/images/toolbar/image.png
+
+===== Bible References: =====
+
+{{topic>obadiah&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}
