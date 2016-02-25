@@ -11,7 +11,6 @@
   * **[[:fa:obe:other:canaan]]**
   * **[[:fa:obe:kt:promisedland]]**
   * **[[:fa:obe:other:joshua]]**
-  * **[[:fa:obe:other:canaan]]**
   * **[[:fa:obe:other:jericho]]**
   * **[[:fa:obe:other:rahab]]**
   * **[[:fa:obe:kt:believe]]**
